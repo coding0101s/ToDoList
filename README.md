@@ -23,4 +23,4 @@
 - 8월(2025.07.28 기준) 전까지 파일 불러오기 기능을 추가할 예정입니다.
 
 ## 연락처
-- coding0101s_github@gmail.com
+- coding0101github@gmail.com
