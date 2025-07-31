@@ -23,3 +23,9 @@
 
 ## 연락처
 - coding0101github@gmail.com
+
+## 제작(안봐도 되요)
+- 제작언어 : C언어
+- chat gpt 사용 여부 : 조금
+- 사용한 도구 : Visual Studio
+- OS : Windows
